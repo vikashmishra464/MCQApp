@@ -78,8 +78,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 or inquiries or feedback, please contact:
 
-- **Name**: Mausumi ghadei
-- **Email**: mausumighei@gmail.com
-![Screenshot 2024-10-30 132728](https://github.com/user-attachments/assets/39e77850-376c-4c68-a122-3fbcb2d4a150)
+- **Name**: Vikash Mishra
+- **Email**: vikashmishra0200@gmail.con
 
 ```
